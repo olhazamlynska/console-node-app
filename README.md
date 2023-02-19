@@ -4,22 +4,22 @@
 
 node index.js --action="list"
 
-![](https://monosnap.com/file/wNE1dcdEvcBbRTUMhiXtBmTjwF8QAj)
+![](./img/add.png)
 
 # Отримуємо контакт по id
 
 node index.js --action="get" --id=5
 
-![](https://ibb.co/sWbtfqh)
+![](./img/get.png)
 
 # Додаємо контакт
 
 node index.js --action="add" --name="Mango" --email="mango@gmail.com" --phone="322-22-22"
 
-![](https://ibb.co/vJ5MLrH)
+![](./img/add.png)
 
 # Видаляємо контакт
 
 node index.js --action="remove" --id=3
 
-![](https://ibb.co/ZTKC3Rp)
+![](./img/remove.png)
