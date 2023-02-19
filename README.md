@@ -4,7 +4,7 @@
 
 node index.js --action="list"
 
-![](./img/add.png)
+![](./img/list.png)
 
 # Отримуємо контакт по id
 
