@@ -4,7 +4,7 @@
 
 node index.js --action="list"
 
-![](https://ibb.co/6R9v39W)
+![](https://monosnap.com/file/wNE1dcdEvcBbRTUMhiXtBmTjwF8QAj)
 
 # Отримуємо контакт по id
 
