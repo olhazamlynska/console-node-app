@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olhazamlynska/node-hw-01.git"
+    "url": "git+https://github.com/olhazamlynska/console-node-app.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olhazamlynska/node-hw-01/issues"
+    "url": "https://github.com/olhazamlynska/console-node-app/issues"
   },
-  "homepage": "https://github.com/olhazamlynska/node-hw-01#readme",
+  "homepage": "https://github.com/olhazamlynska/console-node-app#readme",
   "devDependencies": {
     "nodemon": "^2.0.20"
   },

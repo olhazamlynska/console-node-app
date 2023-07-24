@@ -1,4 +1,4 @@
-# node-hw-01
+# Console Node Application
 
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
